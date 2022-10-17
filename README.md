@@ -1,6 +1,7 @@
 
 <div align="center">
 <img src='https://github.com/kostnerek/kostnerek/blob/main/capybara.gif'>
+<!-- credits for https://www.reddit.com/user/KennethSugar324/ -->
 <h2> Hi There, Welcome to my Github profile!</h2>
 <a href="https://www.linkedin.com/in/filip-kostecki00/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
@@ -35,7 +36,6 @@ Ask me anything  <a href="mailto:filip.kostecki00@gmail.com"><b>via email</b></a
 </div>
 
 <div align="center">
-<!-- <a margin="10" href="https://sass-lang.com" target="_blank"><img margin="10px" height="40" src="https://github.com/kostnerek/kostnerek/blob/main/svgs/sass.svg" alt="sass"></a> -->
 <h2>Technologies and Tools</h2>
 
 <br />
