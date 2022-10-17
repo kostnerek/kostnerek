@@ -8,7 +8,9 @@
 </a>
 <br />
 <br />
-<img src="https://www.codewars.com/users/kostnerek/badges/large" alt="Kostnerek Codewars Badge">
+<a href='https://www.codewars.com/users/kostnerek/' target='_blank'>
+    <img src="https://www.codewars.com/users/kostnerek/badges/large" alt="Kostnerek Codewars Badge">
+</a>
 <br />
 <br />
 
