@@ -14,7 +14,7 @@
 <br />
 <br />
 
-I'm a Backend Developer with 1+ years of hands-on experience, developing and implementing applications and solutions using a range of technologies and programming languages.
+I'm a Backend Developer with 2+ years of hands-on experience, developing and implementing applications and solutions using a range of technologies and programming languages.
 <br />
 
 I'm currently based in **[Cracow, Poland](https://www.google.com/maps/place/Krak%C3%B3w/@50.0468548,19.9348341,12z/data=!3m1!4b1!4m5!3m4!1s0x471644c0354e18d1:0xb46bb6b576478abf!8m2!3d50.0646501!4d19.9449799)**
